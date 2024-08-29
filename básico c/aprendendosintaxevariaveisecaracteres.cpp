@@ -22,5 +22,5 @@ scanf("%c", genero);
 printf("Genero digitado\n");	
 
 printf("Info: nome: %s sobrenome: %s idade: %d genero: %c", nome, sobrenome, idade, genero);
-printf
+printf("escreva");
 }
